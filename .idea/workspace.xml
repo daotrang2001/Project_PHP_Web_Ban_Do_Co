@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25bfa083-7a81-4fdc-b6b0-a5864175f3ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Admin/modular/QuanlyDH/donhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/modular/QuanlyDH/donhang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin/modular/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/Admin/modular/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/banner.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/banner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/danhsach.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/danhsach.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/chonsize.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/main/chonsize.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/dangky.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/main/dangky.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/huongdan.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/main/huongdan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/main/lienhe.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/main/lienhe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang.sql" beforeDir="false" afterPath="$PROJECT_DIR$/webbanhang.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/Twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/Twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/anh1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/anh2.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/anh2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/anh3.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/anh3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/anh5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/anh5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/back.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/back.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/background.1jpg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/background.1jpg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/background.2jpg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/background.2jpg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/background.3jpg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/background.3jpg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/banchan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/banchan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/bangsize.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/bangsize.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/banner3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/banner4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/banner4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/banner5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/banner5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/banner6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/banner6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/banner7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/banner7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/banner8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/banner8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/banner9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/banner9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/buynow.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/buynow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/buynow1.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/buynow1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/camon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/camon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/cart.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/cart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/delete.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/delete.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/email.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/fb.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/fb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/gg.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/gg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/giohang.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/giohang.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/gmail.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/gmail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/in.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/in.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/intagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/intagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/login.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/login.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/logo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/logo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/logo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/shosestore.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/shosestore.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/timkiem.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/timkiem.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/tranhchu.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/tranhchu.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/twiter.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/twiter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webbanhang/images/youtube.png" beforeDir="false" afterPath="$PROJECT_DIR$/webdoco/images/youtube.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mKstWBrnasQCZPDZcZVKj6STgg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webthegioididong-master" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25bfa083-7a81-4fdc-b6b0-a5864175f3ca" name="Default Changelist" comment="" />
+      <created>1609253831431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609253831431</updated>
+      <workItem from="1609253832536" duration="903000" />
+      <workItem from="1609254790069" duration="1370000" />
+      <workItem from="1621331796148" duration="1488000" />
+      <workItem from="1621333438682" duration="1667000" />
+      <workItem from="1621439362146" duration="78000" />
+      <workItem from="1621582762178" duration="1787000" />
+      <workItem from="1621615458478" duration="477000" />
+      <workItem from="1621617035630" duration="309000" />
+      <workItem from="1621962796417" duration="380000" />
+      <workItem from="1622211249587" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1622211358630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622211358630" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621962821259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1621962821259" />
+    <state x="195" y="97" width="998" height="534" key="find.popup" timestamp="1622211339331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="195" y="97" width="998" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1622211339331" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1621332828747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1621332828747" />
+  </component>
+</project>
