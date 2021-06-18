@@ -4,7 +4,7 @@ include('Admin/modular/config.php');
 ?>
 <div class="header">
 <ul>
-<li><img src="webdoco/images/logomaxstore.png" width="500px" height="100%" ></li>
+<li><img src="webdoco/images/logomaxstore.png"></li>
 
 <li>
     <form style="width:600px;" action="index.php"  method="post" enctype="multipart/form-data">
